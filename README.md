@@ -1,2 +1,2 @@
 # Apache-Kafka
-This project is a basic project  where random co-ordinates are published by apache-kafka and consumed by end-user project 
+This project is a straightforward application in which Apache Kafka is used to publish random coordinates, and these coordinates are consumed by the End-User project.
